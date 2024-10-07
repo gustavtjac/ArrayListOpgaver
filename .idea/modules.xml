@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ArrayListOpgaver.iml" filepath="$PROJECT_DIR$/.idea/ArrayListOpgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgaver/Indkobskurv/Indkobskurv.iml" filepath="$PROJECT_DIR$/Opgaver/Indkobskurv/Indkobskurv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgaver/Opgaver.iml" filepath="$PROJECT_DIR$/Opgaver/Opgaver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opgaver/SpotifyRebuild/SpotifyRebuild.iml" filepath="$PROJECT_DIR$/Opgaver/SpotifyRebuild/SpotifyRebuild.iml" />
+    </modules>
+  </component>
+</project>
